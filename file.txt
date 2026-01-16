@@ -7,3 +7,4 @@ exit
 devops
 sir mvit
 rnsit
+lab exam
